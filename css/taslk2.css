@@ -1,0 +1,34 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.text p{
+    text-align: center;
+    color: white;
+    
+}
+
+
+.textp{
+    font-family: 'Robot' , sans-serif;
+font-size: 18px;
+color: green;
+background-color: red;
+font-weight: bold;
+}
+
+
+
+
+
+
+
+
+img{
+    background-size: cover;
+    background-position: center;
+    width: 550px;
+    height: 300px;
+}
